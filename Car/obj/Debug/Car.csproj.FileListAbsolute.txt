@@ -1,0 +1,2 @@
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Car\Car\obj\Debug\Car.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Car\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
